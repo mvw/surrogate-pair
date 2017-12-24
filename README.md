@@ -20,13 +20,13 @@ This should replace the code with the surrogate pair codes.
 
 ## Acknowledgements
 
-I used this example as starting point:
+I used this example by Xah Lee as a starting point:
 
   http://ergoemacs.org/emacs/elisp_converting_hex_decimal.html
   
-The idea for this helper came, when I had to calculate a lot of
-surrogate pairs, first using the online calculator from this site
+The idea for this helper came when I had to calculate a lot of
+surrogate pairs, first using the online calculator by Russell Cottrell from
 
-  http://www.russellcottrell.com/greek/utilities/SurrogatePairCalculator.htm#info
+  http://www.russellcottrell.com/greek/utilities/SurrogatePairCalculator.htm
   
-and later the information provided there to implement this helper.
+and later the information provided there to implement it.
