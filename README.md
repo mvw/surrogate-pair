@@ -16,3 +16,17 @@ This should replace the code with the surrogate pair codes.
   1D552 (&aopf;)
   
   \uD835\uDD52 (&aopf;)
+
+
+## Acknowledgements
+
+I used this example as starting point:
+
+  http://ergoemacs.org/emacs/elisp_converting_hex_decimal.html
+  
+The idea for this helper came, when I had to calculate a lot of
+surrogate pairs, first using the online calculator from this site
+
+  http://www.russellcottrell.com/greek/utilities/SurrogatePairCalculator.htm#info
+  
+and later the information provided there to implement this helper.
