@@ -30,3 +30,9 @@ surrogate pairs, first using the online calculator by Russell Cottrell from
   http://www.russellcottrell.com/greek/utilities/SurrogatePairCalculator.htm
   
 and later the information provided there to implement it.
+
+## Update
+
+I moved this project to [GitLab](https://gitlab.com/mvanwoerkom/surrogate-pair).
+
+
