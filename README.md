@@ -31,8 +31,9 @@ surrogate pairs, first using the online calculator by Russell Cottrell from
   
 and later the information provided there to implement it.
 
-## Update
+## So Long, and Thanks for All the Fish
 
 I moved this project to [GitLab](https://gitlab.com/mvanwoerkom/surrogate-pair).
 
+Kudos to GitHub for their ground-breaking work.
 
